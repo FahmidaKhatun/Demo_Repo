@@ -1,2 +1,0 @@
-2021/04/26 (Mon)
-Working on GIT commands
