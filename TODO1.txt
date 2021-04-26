@@ -1,0 +1,3 @@
+Day 1: 2021/4/26
+-> Study Git and github
+-> Study LPIC
